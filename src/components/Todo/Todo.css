@@ -1,0 +1,22 @@
+.todo {
+  margin: 4px 0;
+}
+
+.todo-text {
+  word-break: break-all;
+  line-height: 1.2;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 7px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: grey;
+  text-align: left;
+}
+
+.todo-delete-icon {
+  color: red;
+  padding: 4px;
+  font-size: 25px;
+  cursor: pointer;
+}
